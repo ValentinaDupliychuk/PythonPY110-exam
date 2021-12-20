@@ -1,0 +1,13 @@
+{
+    "model": "shop_final.book",
+    "pk": 1,
+    "fields": {
+        "title": "\u041a\u0430\u043c\u043e \u0413\u0440\u044f\u0434\u0435\u0448\u0438",
+        "year": 1923,
+        "pages": 146,
+        "isbn13": "978-0-391-13124-8",
+        "rating": 3.93,
+        "price": 355.35,
+        "author": "Allen Kim Jr."
+    }
+}
